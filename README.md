@@ -1,6 +1,6 @@
 ## Hands Detection and Segmentation
-![Example output image](https://github.com/albertoursino/hands-detection-and-segmentation/blob/main/1.jpg)
-Original image taken from [*egohands*](http://vision.soic.indiana.edu/projects/egohands/) dataset.
+![Example output image](https://github.com/albertoursino/hands-detection-and-segmentation/blob/main/example.jpg)
+Original image taken from [egohands](http://vision.soic.indiana.edu/projects/egohands/) dataset.
 
 ## Contents
 
