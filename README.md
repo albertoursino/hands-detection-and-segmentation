@@ -4,8 +4,8 @@ Base image taken from [egohands](http://vision.soic.indiana.edu/projects/egohand
 
 ## Contents
 
-- Unet: training of a dnn for hand segmentation
-- C++ implementation: [yolov5](https://github.com/ultralytics/yolov5) for hand detection + computer visions techniques for segmentation
+- Unet for hand segmentation
+- [yolov5](https://github.com/ultralytics/yolov5) for hand detection + computer vision techniques for hand segmentation
 
 ## Tutorial
 
